@@ -45,7 +45,7 @@ def main():
       break
 
 def intro(): 
-  print('Welcome!')
+  print('Hello!')
   print('Use this program to search Trending Tickers')
   print()
   
